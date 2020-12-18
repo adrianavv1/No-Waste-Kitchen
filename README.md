@@ -52,4 +52,4 @@ Peter Izzo, Mike Henson & Adriana Valdiglesias
 
 &copy; 2020 Pete Izzo, Adriana Valdiglesias, and Mike Henson
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](LICENSE.txt) license. .
